@@ -13,7 +13,7 @@
   <!-- <link rel="stylesheet" type="text/css" href="css/navbar.css"> -->
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
-  <title>IOB-BANK</title>
+  <title>TSF-BANK</title>
 </head>
 
 <body>
