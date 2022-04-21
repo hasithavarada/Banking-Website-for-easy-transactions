@@ -1,8 +1,8 @@
-<h1> THE SPARKS FOUNDATION - GRIPAUG21 INTERNSHIP PROGRAM by Gayathri Ramu
+<h1> THE SPARKS FOUNDATION - GRIPAPRIL22 INTERNSHIP PROGRAM by Hasitha Varada
 
-<h2>WEB DEVELOPMENT (TASK-1) ->> Basic-Banking-System---TSF</h2>
-<h2> TSF-BANK</h2>
-A dynamic website made in the internship @The Spark Foundation under their #GRIPAUGUST21 program.
+<h2>WEB DEVELOPMENT (TASK-1) ->> Basic-Banking-System---IOB</h2>
+<h2> IOB-BANK</h2>
+A dynamic website made in the internship @The Spark Foundation under their #GRIPAPRIL22 program.
 <strong> languages used </strong>
 <ol>
 <li> Frontend - HTML, CSS,  BOOTSTRAP </li>
