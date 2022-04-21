@@ -2,7 +2,7 @@
 	$servername = 'localhost';
 	$user = 'root';
 	$pass = '';
-	$dbname = 'IOB-basic banking system';
+	$dbname = 'TSF-basic banking system';
 
 	$conn = mysqli_connect($servername,$user,$pass,$dbname);
 	if(!$conn){
